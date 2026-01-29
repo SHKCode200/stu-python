@@ -42,6 +42,11 @@ Le programme permet à l’utilisateur d’entrer les informations des étudiant
   - Conditions
   - Gestion des exceptions
 
+### les screenshots
+   ![py1](screenshots/py1.png)
+
+   ![pl2](screenshots/pl2.png)
+
 
 
 ##  Comment exécuter le programme
@@ -52,3 +57,4 @@ Le programme permet à l’utilisateur d’entrer les informations des étudiant
 
 ```bash
 python project.py
+
